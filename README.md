@@ -49,5 +49,29 @@ Implmentation Steps
   ## Final look of the project
 
   ![image](https://github.com/ToukirAhmed1999/RFID-BASED-AUTOMATED-BUS-FAIR-COLLECTOR-with-Mobile-Application/blob/main/Picture1.jpg)
+
+
+  ## Mobile App made with FLutter SDK
+
+> The app is very basic yet. Just implemented the access logs. No design architecture is maintained. Will upadate the app soon with a beautiful and friendly UI. 
+
+![smartmockups_ll0crhv9](https://github.com/ToukirAhmed1999/RFID-BASED-AUTOMATED-BUS-FAIR-COLLECTOR-with-Mobile-Application/blob/main/Picture3.png)
+
+
+## Benifits and Features
+  - [x] Automated Attendance.
+  - [x] Secure Access. (Only authorized People can access with authorized card)
+  - [x] Real-time Monitoring with Mobile App.
+  - [x] Red Signal for invalid access request. (Implemented with a buzzer in prototype)
+  - [x] Separate Database for user details associated with individual authrized card.
+  - [ ] Full administrator controll via mobile app. Admin can add new authorized user or remove existing with the mobile app (Coming soon. Working on it)
+  - [ ] Efficient reporting by the app. (Coming soon)
+  - [x] Easy to install and very cheap to implement.
+
+
+## Get in touch
+> Feel free to contact for any query or suggestion regarding this project. (Please write with your direct purpose instead of sending just Hi or Hello first) <br>
+> ahmed18@cse.pstu.ac.bd <br>
+
   
 
